@@ -1,0 +1,34 @@
+Problem Statement
+Given an array of N integers, find the 4 smallest number of the array and print their sum.
+
+
+Input
+First line contains n.
+next line contains n space separated integers.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+import java.io.*; // for handling input/output
+import java.util.*; // contains Collections framework
+
+// don't change the name of this class
+// you can add inner classes if needed
+class Main {
+    public static void main (String[] args) {
+        // Your code here
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int arr[] = new int[n];
+
+        for(int i=0; i<n; i++){
+            arr[i] = sc.nextInt();
+        }
+        Arrays.sort(arr);
+        int sum = 0;
+        for(int i=0; i<4; i++){
+            sum += arr[i];
+
+        }
+        System.out.println(sum);
+    }
+}

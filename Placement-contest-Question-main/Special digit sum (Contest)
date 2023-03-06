@@ -1,0 +1,41 @@
+Problem Statement
+The special digit sum (SDS) is defined as the sum of maximum digit in each number of the array.
+For example, SDS of { 23, 5, 614 } is max(2, 3) + 5 + max(6, 1, 4) = 3 + 5 + 6 = 14.
+
+Given an array of N integers. Print the special digit sum (SDS) of the array.
+
+
+Input
+First line contains N.
+Next line contains N space separated integers.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+import java.io.*; // for handling input/output
+import java.util.*; // contains Collections framework
+
+// don't change the name of this class
+// you can add inner classes if needed
+class Main {
+    public static void main (String[] args) {
+        // Your code here
+        Scanner sc = new Scanner(System.in);
+        int n=sc.nextInt();
+        int sum =0;
+        for(int i=0;i<n;i++)
+        {
+            int num = sc.nextInt();
+            int max = 0;
+            while(num>0)
+            {
+                int digit = num%10;
+                if(digit > max)
+                {
+                    max = digit;
+                }
+                num /= 10;
+            }
+            sum += max;
+        }
+        System.out.println(sum);
+    }
+}

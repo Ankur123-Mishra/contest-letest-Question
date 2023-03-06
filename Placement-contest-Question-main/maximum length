@@ -1,0 +1,46 @@
+Problem Statement
+You are given an array of length N and an integer K. The array will contain integers numbered through 1 to K. 
+Your task is to calculate the maximum length of the subarray containing not more than K-1 distinct numbers(atleast one number which does not occur in the subarray)
+
+
+Input
+The first line contains two integers N and K
+The second line contains N space-separated integers
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+import java.io.*; // for handling input/output
+import java.util.*; // contains Collections framework
+
+// don't change the name of this class
+// you can add inner classes if needed
+class Main {
+    public static void main (String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int k = sc.nextInt();
+        int arr[] = new int[n];
+        for(int i=0;i<n;i++){
+            arr[i] = sc.nextInt();
+        }
+
+        int left = 0;
+        int ans = 0;
+        for(int right=0;right<n;right++){
+            freq[arr[right]]++;
+            if(freq[arr[right]]==1){
+                uniqueCount++;
+            }
+            while(uniqueCount>k-1){
+                freq[arr[left]]--;
+                if(freq[arr[left]]==0){
+                    uniqueCount--;
+                }
+                left++;
+            }
+            ans = Math.max(ans, right-left+1);
+        }
+        System.out.println(ans);
+    }
+}
+// find largest sub array that contains atmost k-1 unique numbers ->
+// sliding window/two poninter -> min/max sub array

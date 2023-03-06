@@ -1,0 +1,29 @@
+import java.io.*; // for handling input/output
+import java.util.*; // contains Collections framework
+
+// don't change the name of this class
+// you can add inner classes if needed
+class Main {
+    public static void main (String[] args) {
+        // Your code here
+         Scanner scanner = new Scanner(System.in);
+
+     
+        int a = scanner.nextInt();
+     
+        int b = scanner.nextInt();
+
+        String aStr = String.valueOf(a);
+        String bStr = String.valueOf(b);
+
+        int length = Math.min(aStr.length(), bStr.length());
+
+        for (int i = 0; i < length; i++) {
+            if (aStr.charAt(i) == bStr.charAt(i)) {
+                System.out.print(aStr.charAt(i) + " ");
+            }
+        }
+
+        System.out.println();
+    }
+}

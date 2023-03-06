@@ -1,0 +1,328 @@
+QUESTION NAME	PLAYGROUND LINKS	STATUS
+3
+Two Sum Maximization	https://my.newtonschool.co/playground/code/zu4ezxqr91tl/	DONE
+4
+Insert Operator	https://my.newtonschool.co/playground/code/xpi5o90zwe7b/	DONE
+5
+Hip Hip Array	https://my.newtonschool.co/playground/code/a237gf4obwl6/	DONE
+6
+Good cells	https://my.newtonschool.co/playground/code/p0zpq11o6uvu/	DONE
+7
+Guardians of Galaxy	https://my.newtonschool.co/playground/code/7uaixk0xfdzq/	DONE
+8
+Fruit Market	https://my.newtonschool.co/playground/code/44lsdt20jn9l/	DONE
+9
+Count Total Digits in a Number	https://my.newtonschool.co/playground/code/92d2yt5heo94/	DONE
+10
+Minimum Element in Sorted and Rotated Array	https://my.newtonschool.co/playground/code/5lkpghmg536k/	DONE
+11
+Cyclic Rotation Paradigm	https://my.newtonschool.co/playground/code/sbhpjbjsnr1o/	DONE
+12
+Counting Zeroes to Ones	https://my.newtonschool.co/playground/code/rej52vzruwjr/	DONE
+13
+Pair Sum	Newton School	DONE
+14
+Permutation - 2	Newton School	NOT DONE
+15
+Packing Rectangles	Newton School	NOT DONE
+16
+N integers: Easy	Newton School	NOT DONE
+17
+Max Score in Quiz	https://my.newtonschool.co/playground/code/5fshzwwsaeiy/	DONE
+18
+Sweet Bunty (Contest)	https://my.newtonschool.co/playground/code/wbiyp2su5bgm/	DONE
+19
+Count 1's in binary array	https://my.newtonschool.co/playground/code/10b6j94sf060/	DONE
+20
+Row Index Identification (Contest)	https://my.newtonschool.co/playground/code/nihj6uhfczo7/	NOT DONE
+21
+Matrix problem	https://my.newtonschool.co/playground/code/y0rmrp10kqq7/	DONE
+22
+Maximum difference	https://my.newtonschool.co/playground/code/wzqi8av4sc68/	NOT DONE
+23
+Spiral rotation	https://my.newtonschool.co/playground/code/l1lymwf8n690/	DONE
+24
+Max permute (Contest)	https://my.newtonschool.co/playground/code/vho68w8q9xe9/	NOT DONE
+25
+REMOVE DUPLICATE	https://my.newtonschool.co/playground/code/499eaik7ap7b/	NOT DONE
+26
+Transpose of matrix	https://my.newtonschool.co/playground/code/bexr8je19o6m/	DONE
+27
+Concatenate Strings	https://my.newtonschool.co/playground/code/en0yqatrac5b/	DONE
+28
+Print Pattern	https://my.newtonschool.co/playground/code/jt1avchppkbb/	DONE
+29
+Separating Negative and Positive numbers	https://my.newtonschool.co/playground/code/ib48ik1a7z1d	DONE
+30
+Zero Padding(Contest)	https://my.newtonschool.co/playground/code/rro9fnb347i4	DONE
+31
+Lexographical Rotation (Contest)	https://my.newtonschool.co/playground/code/b9we8neodoly/	DONE
+32
+Candy Store Earnings	https://my.newtonschool.co/playground/code/enbocifw4tru/	DONE
+33
+Duplicates at a distance k	https://my.newtonschool.co/playground/code/jwsruaam2lsz/	DONE
+34
+Matrix problem	https://my.newtonschool.co/playground/code/y0rmrp10kqq7/	DONE
+35
+Row Index Identification (Contest)	https://my.newtonschool.co/playground/code/sdzrx07t0fgb/	DONE
+36
+Maximum Area	https://my.newtonschool.co/playground/code/m318ky94qx1x	DONE
+37
+Good circular array	https://my.newtonschool.co/playground/code/8goqq6dyf19r	DONE
+38
+Lexographical Rotation (Contes	https://my.newtonschool.co/playground/code/cr2ncocq1owx	DONE
+39
+First non-repeating character in a String	https://my.newtonschool.co/playground/code/yg89y55pdh87	DONE
+40
+Mohit and array	https://my.newtonschool.co/playground/code/x005rksju4sc	DONE
+41
+Inversion of array	https://my.newtonschool.co/playground/code/jm4tqoi5374t	DONE
+42
+Searching an element in a sorted array	https://my.newtonschool.co/playground/code/zsbbefv3izqp	DONE
+43
+Shopping	https://my.newtonschool.co/playground/code/65afpf312ajb	DONE
+44
+Easy - Peasy (Contest)	https://my.newtonschool.co/playground/code/wbb491jaf8im	DONE
+45
+Smaller elements	https://my.newtonschool.co/playground/code/4cjvm7qbpzl9	DONE
+46
+Sort it (Contest)	https://my.newtonschool.co/playground/code/x4x012373r7p	DONE
+47
+Teacher	https://my.newtonschool.co/playground/code/3q52624ht7vt/	NOT DONE
+48
+Count Numbers	https://my.newtonschool.co/playground/code/l5y3r1zvnj1l/	DONE
+49
+The high median paradigm (Contest)	https://my.newtonschool.co/playground/code/32pn4lhkrv63/	DONE
+50
+ABC? (Contest)	https://my.newtonschool.co/playground/code/m6j0jqfaa47s/	NOT DONE
+51
+Diagonal Sum	https://my.newtonschool.co/playground/code/4xntnn1jgfka/	DONE
+52
+Yet Another Array Rearrangement Problem (Contest)	https://my.newtonschool.co/playground/code/mootgd4lhcvs/	DONE
+53
+Ropes (Contest)	https://my.newtonschool.co/playground/code/rabp3564ktnb/	DONE
+54
+Wakandan Point in Unsorted Array	https://my.newtonschool.co/playground/code/5j8j5qwcpw3g/	DONE
+55
+Alternate Matrix Addition	https://my.newtonschool.co/playground/code/e0qrt52bv7e1/	DONE
+56
+Help Aryan	https://my.newtonschool.co/playground/code/awhph9m5gb9e/	DONE
+57
+Repeating numbers(Assignment)	https://my.newtonschool.co/playground/code/33x40gycy8jn/	DONE
+58
+Max sum column(Contest)	https://my.newtonschool.co/playground/code/qof824a5a5o9/	DONE
+59
+maximum length of Longest subarray not having more than K distinct elements	https://ide.geeksforgeeks.org/bb9f22f9-ba70-4a5a-a7b2-9847465ad260	
+60
+Eat or be Eaten	https://my.newtonschool.co/playground/code/c8ysvlyakr3m/	NOT DONE
+61
+Lone Sum Supremacy	https://my.newtonschool.co/playground/code/f0jku3mnmqbw/	DONE
+62
+Divisible by 8	https://my.newtonschool.co/playground/code/lq7igfu62h20/	NOT DONE
+63
+Alternate Matrix Addition	https://my.newtonschool.co/playground/code/pot9g4d6vdp7/	DONE
+64
+Least Subarrays	https://my.newtonschool.co/playground/code/dctvihnjbe56/	DONE
+65
+Simple-Transpose	https://my.newtonschool.co/playground/code/170kpjf036zn/	DONE
+66
+Row with maximum 1's	https://my.newtonschool.co/playground/code/5wxkxv5v8v9h/	DONE
+67
+optimal goodies	https://my.newtonschool.co/playground/code/7zqzajvbw0vv/	DONE
+68
+power function	https://my.newtonschool.co/playground/code/8i94v3hafnxf/	DONE
+69
+floor sorted array	https://my.newtonschool.co/playground/code/4i9v4iqh2qzw/	DONE
+70
+inifinity stone	https://my.newtonschool.co/playground/code/vvub7fu95ul2/	DONE
+71
+max sum coloumn	https://my.newtonschool.co/playground/code/nfyit5do77td/	DONE
+72
+swapping matrix	https://my.newtonschool.co/playground/code/47c9iugtizfe/	DONE
+73
+Yet Another Array Rearrangement Problem (Contest)	https://my.newtonschool.co/playground/code/j5up4bwqsy1v/	DONE
+74
+Special digit sum (Contest)	https://my.newtonschool.co/playground/code/qld05e3cxw9l/	DONE
+75
+Lone Sum Supremacy (Contest)	https://my.newtonschool.co/playground/code/mba6e9hl4iuv/	DONE
+76
+Choose Card optimally(Contest)	https://my.newtonschool.co/playground/code/xtaipfiai4gh	DONE
+77
+Balanced Neighborhood (Contest)	https://my.newtonschool.co/playground/code/733ey88csjc8	DONE
+78
+Yet Another Array Rearrangement Problem (Contest)	https://my.newtonschool.co/playground/code/i4w0rzdcks9b/	DONE
+79
+Minimum operation - II	https://my.newtonschool.co/playground/code/hhu26gdwdzy9/	DONE
+80
+Yet again Partition sort problem (Contest)	https://my.newtonschool.co/playground/code/9yvrvo9nh61h/	DONE
+81
+Boundary Traversal of Matrix	https://my.newtonschool.co/playground/code/7iiskgsmu26d/	DONE
+82
+absolute value discrpency	https://my.newtonschool.co/playground/code/eiih4plvhtr0/	DONE
+83
+Science Camp(Contest)	https://my.newtonschool.co/playground/code/8la6qco36u3a/	NOT DONE
+84
+Gabba test	https://my.newtonschool.co/playground/code/49nx21dkzufn/	DONE
+85
+Good cells	https://my.newtonschool.co/playground/code/09x9852e2g3z/	DONE
+86
+Orange or Chocolate Candy? (Contest)	https://my.newtonschool.co/playground/code/49vfxtbso6kh	DONE
+87
+Array Frequency Paradigm (Contest)	https://my.newtonschool.co/playground/code/bkgifwe01jrp	DONE
+88
+Grid Magic (Contest)	https://my.newtonschool.co/playground/code/slbujc4wklc7	DONE
+89
+Packing Rectangles (Contest)	https://my.newtonschool.co/playground/code/vkeb3vtr6bb4	DONE
+90
+Easy - Peasy (Contest)	https://my.newtonschool.co/playground/code/snds9fmf6h88	DONE
+91
+Row Index Identification (Contest)	https://my.newtonschool.co/playground/code/5itwxjo8rswm	DONE
+92
+The high median paradigm (Contest)	https://my.newtonschool.co/playground/code/4ay2ayjh520n	DONE
+93
+Door problem	https://my.newtonschool.co/playground/code/cub4n2n67ar0	DONE
+94
+Ultron : Vibranium Quest	https://my.newtonschool.co/playground/code/ohkadv1bzwp1/	DONE
+95
+Lucky Boys	https://my.newtonschool.co/playground/code/4403hcwmjb9v/	DONE
+96
+Number of distinct numbers	https://my.newtonschool.co/playground/code/h2lfnpckkwfy/	DONE
+97
+Guardians of Galaxy	https://my.newtonschool.co/playground/code/qjjwep7b0uzq/	DONE
+98
+Missing two	https://my.newtonschool.co/playground/code/rzecnkw12qlk/	DONE
+99
+Passcode	https://my.newtonschool.co/playground/code/p8gmekkrs2xn/	DONE
+100
+Array Proximity (Contest)	https://my.newtonschool.co/playground/code/336kvwwxdf23/	DONE
+101
+Reduce to 1	https://my.newtonschool.co/playground/code/mjdg7m707yin/	DONE
+102
+Grid Magic (Contest)	https://my.newtonschool.co/playground/code/akleb03uypar/	DONE
+103
+K-pairs	https://my.newtonschool.co/playground/code/kof605kbyshx/	DONE
+104
+Minimum operation - II	https://my.newtonschool.co/playground/code/355cnit0jmil/	DONE
+105
+Index Identification (Contest)		
+106
+Row with maximim 1s	https://my.newtonschool.co/playground/code/pl9wei8hyowj/	DONE
+107
+Minimum adjacent difference in a circular array	https://my.newtonschool.co/playground/code/utred9llw3ms/	DONE
+108
+The high median paradigm (Contest)	https://my.newtonschool.co/playground/code/barsswz1jsph/	DONE
+109
+Sequence Formation (Contest)	https://my.newtonschool.co/playground/code/bz65yj7ohkyb/	NOT DONE
+110
+Birthday Gift (Contest)	https://my.newtonschool.co/playground/code/7i01x8hgyb7a/	DONE
+111
+Odd Sum Array (Contest)	https://my.newtonschool.co/playground/code/jagr8u5cjc4w/	DONE
+112
+Find element in 2D array	https://my.newtonschool.co/playground/code/iphzg0q575mp/	NOT DONE
+113
+Activity Selection	https://my.newtonschool.co/playground/code/jx9l2lavvin1/	NOT DONE
+114
+Iso Lexo String (Contest)	Newton School	DONE
+115
+Sum of Largest Elemnts	https://my.newtonschool.co/playground/code/j9fcedbqqguo/	DONE
+116
+Triangular matrix
+https://my.newtonschool.co/playground/code/vfrz23npgfqh/	DONE
+117
+Odd Sum Array (Contest)	https://my.newtonschool.co/playground/code/egvqtib2ikn4/	DONE
+118
+squiggly brackets	https://my.newtonschool.co/playground/code/scurjkoelme4/	DONE
+119
+Triangular Matrix	https://my.newtonschool.co/playground/code/z24kiulqkqbd/	DONE
+120
+packing rectangles	https://my.newtonschool.co/playground/code/r2faajdbn28n/	DONE
+121
+Smaller Elements	https://my.newtonschool.co/playground/code/l4dhke1o1rto/	NOT DONE
+122
+Knight Game	https://my.newtonschool.co/playground/code/9crow55xjnai/	DONE
+123
+Power of Three	https://my.newtonschool.co/playground/code/8xhbfb2w9t8q/	DONE
+124
+Happy Balloons(Contest)	https://my.newtonschool.co/playground/code/up7qzwds3dqw/	DONE
+125
+Max Candies	https://my.newtonschool.co/playground/code/6553tcubeji1/	DONE
+126
+Concatenating String	https://my.newtonschool.co/playground/code/3rc3of5msa68/	DONE
+127
+Tower of Hanoi	https://my.newtonschool.co/playground/code/qxqq6mscuttf/	DONE
+128
+Bad Dish	https://my.newtonschool.co/playground/code/hkik5n3itmy1/	DONE
+129
+Transpose Matrix	https://my.newtonschool.co/playground/code/ml0gwkr5t86z/	DONE
+130
+Generate all Parenthesis	https://my.newtonschool.co/playground/code/sapyq16sbt10/	DONE
+131
+Choose Points	https://my.newtonschool.co/playground/code/bak9o7lzlet4/	DONE
+132
+Diagonal Sum	https://my.newtonschool.co/playground/code/gcmlvjsqt2nk/	DONE
+133
+Optimal Goodies	https://my.newtonschool.co/playground/code/vhhwucxe67ze/	DONE
+134
+Count Total Digits in a Number	https://my.newtonschool.co/playground/code/ysxpngpz6qv2/	DONE
+135
+Replace Element	https://my.newtonschool.co/playground/code/h4lxcl30o24z/	DONE
+136
+Zero Padding	https://my.newtonschool.co/playground/code/0j86cqzmfjia/	DONE
+137
+Row With Maximum 1's	https://my.newtonschool.co/playground/code/e74zbhw2w6g2/	DONE
+138
+The High Median Paradigm	https://my.newtonschool.co/playground/code/h7hy9jd1d4dm/	DONE
+139
+Sort It	https://my.newtonschool.co/playground/code/i7gcnxkr7mcz/	DONE
+140
+Maximum Area	https://my.newtonschool.co/playground/code/2pvxtxc0ed6o/	DONE
+141
+Ultron : Vibranium Quest	https://my.newtonschool.co/playground/code/ohkadv1bzwp1/	DONE
+142
+Guardians of Galaxy	https://my.newtonschool.co/playground/code/qjjwep7b0uzq/	DONE
+143
+Number of distinct numbers	https://my.newtonschool.co/playground/code/h2lfnpckkwfy/	DONE
+144
+Lucky Boys	https://my.newtonschool.co/playground/code/4403hcwmjb9v/	DONE
+145
+Skit Video	https://my.newtonschool.co/playground/code/dun325ipb186/	DONE
+146
+Max Candies	https://my.newtonschool.co/playground/code/pdhw3ff63aqp/	DONE
+147
+Ropes(Contest)	https://my.newtonschool.co/playground/code/049mflwis4hj/	DONE
+148
+Zero Padding	https://my.newtonschool.co/playground/code/0s6ui4s0nm7w/	DONE
+149
+Arpit's Toy(Contest)	https://my.newtonschool.co/playground/code/odnki2vtq3dn/	DONE
+150
+Insert Operator	https://my.newtonschool.co/playground/code/el8f4yq1uz7n/	DONE
+151
+Simple Pairs	https://my.newtonschool.co/playground/code/prm9lc9lgi5e/	DONE
+152
+Max Sum Column	https://my.newtonschool.co/playground/code/avnxdey74wqp/	DONE
+153
+Squiggly Brackets	https://my.newtonschool.co/playground/code/fefd7vs4a4co/	NOT DONE
+154
+Grid Magic(Contest)	https://my.newtonschool.co/playground/code/4c8r9qbw1h7d/	NOT DONE
+155
+Alternate Matrix Addition	https://my.newtonschool.co/playground/code/9ms9gidm9hxr/	DONE
+156
+Lone Sum Supremacy(Contest)	https://my.newtonschool.co/playground/code/txw3v9p9f0ag/	NOT DONE
+157
+Candy Store Earning(Contest)	https://my.newtonschool.co/playground/code/uyvdmmdunl3s/	NOT DONE
+158
+Help Samar with Chopsticks	https://my.newtonschool.co/playground/code/eh2ghzklorvh/	DONE
+159
+Get the Shadow	https://my.newtonschool.co/playground/code/mqufyr25fuv9/	DONE
+160
+Nth node from end of linked list	https://my.newtonschool.co/playground/code/twutnnu4zswf/	DONE
+161
+Find unique	https://my.newtonschool.co/playground/code/j80ohor5eviw/	DONE
+162
+Fruit Market (Contest)	https://my.newtonschool.co/playground/code/v1e7pxozymze/	DONE
+163
+Factorial - Recursion	https://my.newtonschool.co/playground/code/zblvil63nj08/	DONE
+164
+Triangular matrix	https://my.newtonschool.co/playground/code/citft9bcg4jf/	DONE
+165
+Majority Element	https://my.newtonschool.co/playground/code/g8fifns7ncra/	NOT DONE

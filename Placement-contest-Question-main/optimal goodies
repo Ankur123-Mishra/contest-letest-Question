@@ -1,0 +1,44 @@
+Problem Statement
+Tono loves to do shopping. Today, she went to the market where there are N different types of products.
+She wants to buy exactly K of them at the minimum cost. Although she is super smart, she wants to check your smartness as well.
+Can you tell her the minimum cost required to buy exactly K products if she has already decided to buy product J?
+
+Note: Tono does not buy the same product twice, and Tono will definitely buy product J (J is the index of the item).
+
+
+Input
+The first line of the input contains three integers, N, K, and J, denoting the number of products in the market, 
+the number of products Tono needs to buy, and the product that Tono will definitely buy.
+The next line contains N singly spaced integers, the cost of the N products C[1], C[2], ..., C[N].
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+import java.io.*; // for handling input/output
+import java.util.*; // contains Collections framework
+
+// don't change the name of this class
+// you can add inner classes if needed
+class Main {
+    public static void main (String[] args) {
+        // Your code here
+        int n, k, j;
+        Scanner sc=new Scanner(System.in);
+        n=sc.nextInt();
+        k=sc.nextInt();
+        j=sc.nextInt();
+        int arr[]=new int[n];
+        int t=0;
+        for(int i=0; i<n;i++){
+            if(i==j-1){
+                t=sc.nextInt();
+                arr[i]=Integer.MAX_VALUE;
+                continue;
+            }
+            arr[i]=sc.nextInt();
+        }
+        Arrays.sort(arr);
+        for(int i=0; i<k-1;i++){
+            t += arr[i];
+        }
+        System.out.println(t);
+    }
+}

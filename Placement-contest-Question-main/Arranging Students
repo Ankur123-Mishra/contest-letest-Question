@@ -1,0 +1,48 @@
+Problem Statement
+In the morning assembly, there are N students standing in a line, such that the ith student from the front has height H[i].
+In one move, you can pick any two students and swap their positions.
+If you are allowed to do only one swap, can you arrange the students in increasing order of their hieghts?
+
+
+Input
+The first line of input contains T, the number of test cases.
+The first line of each test case contains N, the number of students in the line.
+The second line of each test case contains the heights of N students, where the ith index is the height of ith student.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+import java.io.*; // for handling input/output
+import java.util.*; // contains Collections framework
+
+// don't change the name of this class
+// you can add inner classes if needed
+class Main {
+    public static void main (String[] args) {
+        // Your code here
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt();
+        for(int i=0; i<t; i++){
+            int n = sc.nextInt();
+            int heights[] = new int[n];
+            for(int j=0; j<n; j++){
+                heights[j] = sc.nextInt();
+            }
+            int copy[] = new int[n];
+            int k=0;
+            for(int h : heights){
+                copy[k++] = h;
+            }
+            Arrays.sort(copy);
+            int canArrange = 0;
+            for(int j=0; j<n; j++){
+                if(heights[j] != copy[j]){
+                    canArrange++;
+                }
+            }
+            if(canArrange > 2){
+                System.out.println("NO");
+            }
+            else
+            System.out.println("YES");
+        }
+    }
+}

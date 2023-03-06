@@ -1,0 +1,38 @@
+Problem Statement
+Given a sorted array of N integers a[], and Q queries. For each query, you will be given a positive integer K and your task is to print the number of elements in array a[] that are smaller than or equal to K.
+
+
+Input
+In case of Java only
+User Task:
+Since this will be a functional problem, you don't have to take input. You just have to complete the function smallerElements() that takes the array a[],
+integer N and integer k as arguments.
+
+
+
+Custom Input
+The first line of input contains a single integer N.
+The second line of input contains N space- separated integers depicting the values of the array.
+The third line of input contains a single integer Q, the number of queries.
+Each of the next Q lines of input contain a single integer, the value of K.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+static int smallerElements(int a[], int n, int k){
+        int first=0;
+       int last=n-1;
+        int ans=0;
+        while(first<=last){
+                int mid=(first+last)/2;
+                if(k<a[mid]){
+                        last=mid-1;
+                        ans = mid;
+                }
+                else{
+                        first=mid+1;
+                        ans=first;
+                }
+        }
+        return ans;
+}

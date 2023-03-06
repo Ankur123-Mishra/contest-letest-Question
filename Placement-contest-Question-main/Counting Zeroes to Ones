@@ -1,0 +1,30 @@
+Problem Statement
+You are given a square matrix of size N*N. Initially all elements of this matrix are equal to 0. You are given Q queries. Each query consists of two integers, i and j (1 <= i, j <= N) wherein you increase the value of all elements in the ith row and jth column by 1. After doing this, for each query print the number of zeroes left in the matrix.
+
+
+Input
+The first line of the input consists of two integers N and Q.
+The next Q lines each contains two integers i and j.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+#include <bits/stdc++.h> // header file includes every Standard library
+using namespace std;
+#define int long long
+
+signed main() {
+	int a,r = 0,c=0;
+    cin >> a;
+    int k ;
+    cin >> k;
+    int ans = a*a;
+    vector<int> row(a+1),col(a+1);
+    while(k--){
+        int i,j;
+        cin >> i >> j;
+        if(row[i] == 0) ans -= a - c,row[i]=1,r++;
+        if(col[j] ==0) ans -= a- r,col[j] = 1,c++;
+        cout << ans <<' ';
+    }
+    
+}

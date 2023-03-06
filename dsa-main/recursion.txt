@@ -1,0 +1,123 @@
+import java.util.*;
+public class Sol {
+    public static void main(String[] args) {
+        int n = 5;
+        printIncreasing(n);
+    }
+--------------------------------------------------------------------
+
+// program to print n numbers
+
+    static void printIncreasing(int n) {
+        if(n==1) {
+            System.out.println(n);
+            return;
+        }
+        printIncreasing(n-1);
+        System.out.println(n);
+
+    }
+}
+
+--------------------------------------------------------------------
+
+// factorial of a number n
+
+    static int factorial(int n) {
+        if(n==0) return 1;
+        return factorial(n-1)*n;
+    }
+-------------------------------------------------------------------
+
+// nth fibonacci number
+
+    static int fibonacci(int n) {
+        if(n==0 || n==1) return n;
+        return  fibonacci(n-1)+fibonacci(n-2);
+    }
+
+-----------------------------------------------------------------
+
+//sum of digits of a number
+
+    static int sumofdigits(int n) {
+        if(n >= 0  && n <= 9) return  n;
+        return  sumofdigits(n/10) + n%10;
+    }
+
+----------------------------------------------------------------
+
+//power of a number
+
+    static int pow(int p, int q) {
+        if(q==0) return  1;
+        int smallpow = pow(p, q/2);
+        if(q%2 == 0) {
+            return  smallpow * smallpow;
+        }
+        return p * smallpow * smallpow;
+    }
+
+----------------------------------------------------------------
+
+// sum of n numbers
+
+    static  int sumofnnumbers(int n) {
+        if(n==0) return n;
+        return sumofnnumbers(n-1)+n;
+    }
+
+
+---------------------------------------------------------------
+
+    //find GCD using  euclidian algorithim
+
+    static  int gcd (int x, int y) {
+        if(y==0) return  x;
+        return gcd(y, x%y);
+    }
+
+--------------------------------------------------------------
+
+
+sorting ======================================================
+
+
+//bubblesort
+
+-------------------------------------------------------------
+
+kadanes - max subarray sum===================================
+
+
+public class Sol {
+    public static void main(String[] args) {
+        int num[] = { -2, -3, 4, -1, -2, 1, 5, -3 };
+        kadanes(num);
+
+        }
+        public  static void kadanes(int num[]) {
+        int maxsum = Integer.MIN_VALUE;
+        int currsum = 0;
+
+        for(int i=0; i<num.length; i++) {
+            currsum = currsum + num[i];
+            if(currsum < 0) {
+                currsum = 0;
+            }
+            maxsum = Math.max(currsum, maxsum);
+        }
+            System.out.println(maxsum);
+
+    }
+
+    }
+
+
+--------------------------------------------------------
+
+//trapping rainwater
+
+
+
+

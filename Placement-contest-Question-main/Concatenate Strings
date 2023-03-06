@@ -1,0 +1,32 @@
+Problem Statement
+Given N Strings of length L each. Find the lexicographically smallest string that can be formed after concatenating all the strings in some order.
+
+
+Input
+The first line of input contains two integers N and L. The next N lines contains a single sting each of length L.
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+import java.io.*; // for handling input/output
+import java.util.*; // contains Collections framework
+
+// don't change the name of this class
+// you can add inner classes if needed
+public class Main {
+    public static void main (String[] args) {
+Scanner sc = new Scanner (System.in);
+int n = sc.nextInt();
+int l = sc.nextInt();
+sc.nextLine();
+String[] strings = new String[n];
+for (int i = 0; i < n; i++){
+    strings[i] = sc.next();
+}
+Arrays.sort(strings);
+StringBuilder result = new StringBuilder();
+for (String s : strings){
+result.append(s);
+}
+System.out.println(result);
+     
+    }
+}
